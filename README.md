@@ -1,6 +1,6 @@
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdk6517)](https://solved.ac/백준dkdk6517/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdk6517)](https://solved.ac/dkdk6517/)
 <img src="http://mazandi.herokuapp.com/api?handle=dkdk6517&theme=cold"/> <a href="https://instagram.com/movinggun01">
     
    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/movinggun01/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
