@@ -2,6 +2,10 @@
 
 # 🌟 mvg01's GitHub Profile
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/mvg01?pet-id=" width="1000" height="120"/>
+</a>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdk6517)](https://solved.ac/dkdk6517/)
 <img src="http://mazandi.herokuapp.com/api?handle=dkdk6517&theme=cold"/> 
 
