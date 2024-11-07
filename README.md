@@ -2,10 +2,6 @@
 
 # 🌟 mvg01's GitHub Profile
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/mvg01?pet-id=" width="1000" height="120"/>
-</a>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdk6517)](https://solved.ac/dkdk6517/)
 <img src="http://mazandi.herokuapp.com/api?handle=dkdk6517&theme=cold"/> 
 
@@ -53,3 +49,13 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
+
+<br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/mvg01"
+  width="1000"
+  height="300"
+/>
+</a>
