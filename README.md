@@ -52,6 +52,7 @@
 * [2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL 최우수상
 * [2024.11.29] 한성SW중심대학 페스티벌 코딩대회 우수상
 
+---
 
 <a href="https://github.com/devxb/gitanimals">
 <img
