@@ -37,14 +37,6 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoongteng&count_bg=%231F7700&title_bg=%2327A7F6&icon=gradle.svg&icon_color=%23C2C2C2&title=mvg01&edge_flat=false)](https://hits.seeyoufarm.com)
-
----
-
 ## 🛠 Tools
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
@@ -53,6 +45,14 @@
 
 <br>
 
+## 🏆 Awards
+* [2023.11.09] 교내 컴퓨터공학부 프로그래밍 대회 우수상
+* [2024.04.30] 2024 시스코 이노베이션 챌린지 장려상
+* [2024.09.26] 제 20회 한성공학경진대회 은상
+* [2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL 최우수상
+* [2024.11.29] 한성SW중심대학 페스티벌 코딩대회 우수상
+
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/mvg01"
@@ -60,3 +60,6 @@
   height="300"
 />
 </a>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoongteng&count_bg=%231F7700&title_bg=%2327A7F6&icon=gradle.svg&icon_color=%23C2C2C2&title=mvg01&edge_flat=false)](https://hits.seeyoufarm.com)
