@@ -107,6 +107,12 @@
   <img src="" alt="ACPC 본선" width="500"/>
 </details>
 
+<details>
+  <summary>🏅 [2025.05.26] 한성발전공헌상</summary>
+  <br>
+  <img src="https://github.com/user-attachments/assets/30951abf-a5b5-4876-9853-770f94213ae8" alt="한성공헌" width="500"/>
+</details>
+
 <br>
 
 ---
