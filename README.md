@@ -104,7 +104,7 @@
 <details>
   <summary>🚀 [2025.05.25] AWS X CODETREE ACPC 본선 진출</summary>
   <br>
-  <img src="" alt="ACPC 본선" width="500"/>
+  <img src="https://github.com/user-attachments/assets/c5a586e0-bf53-458f-8590-b9d4629e36b9" alt="ACPC 본선" width="500"/>
 </details>
 
 <details>
